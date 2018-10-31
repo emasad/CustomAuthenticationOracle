@@ -1,0 +1,46 @@
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\Domain.dll.config
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\Domain.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\Domain.pdb
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.xml
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\obj\Debug\Domain.dll
+C:\Users\47017\Desktop\Oracle Project\OracleCodeFirst\Domain\obj\Debug\Domain.pdb
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\Domain.dll.config
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\Domain.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\Domain.pdb
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\EntityFramework.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\EntityFramework.xml
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\obj\Debug\Domain.dll
+C:\Users\47017\Desktop\Oracle Project\10.10.80.81 DB\OracleCodeFirst\Domain\obj\Debug\Domain.pdb
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Domain.dll.config
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Domain.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Domain.pdb
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\obj\Debug\Domain.dll
+C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\obj\Debug\Domain.pdb
