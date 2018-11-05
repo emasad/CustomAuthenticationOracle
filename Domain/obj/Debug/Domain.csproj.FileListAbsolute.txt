@@ -44,3 +44,28 @@ C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.W
 C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\obj\Debug\Domain.dll
 C:\Users\47017\Desktop\Pension Project\OracleCodeFirst\Domain\obj\Debug\Domain.pdb
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Domain.dll.config
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Domain.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Domain.pdb
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\EntityFramework.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Helpers.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Mvc.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Razor.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\EntityFramework.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Helpers.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Mvc.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.Razor.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\obj\Debug\Domain.dll
+E:\1 FINAL PROJECT\OracleCodeFirstCustomAuthentication\Domain\obj\Debug\Domain.pdb

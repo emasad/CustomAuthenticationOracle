@@ -17,7 +17,7 @@ namespace OracleCodeFirst.Web.Controllers
             return View();
         }
 
-        [CustomAuthorize(Roles = "HO")]
+        [CustomAuthorize(Roles = "HO, GMO")]
         public ActionResult HO()
         {
             ViewBag.Message = "Only HeadOffice User.";
